@@ -3,62 +3,71 @@ title: Research
 date: 2024-11-27
 permalink: /research/
 description: Explore the cutting-edge research conducted by our group.
+type: landing
 
 sections:
   - block: markdown
     content:
-      title:
+      title: Research Areas
       subtitle:
       text: |
-        # Research Areas
+       
 
-        Our group focuses on advancing knowledge and developing innovative solutions in the following key areas:
+                Our group focuses on advancing knowledge and developing innovative solutions in the following key areas:
 
-        ## Visual data security and privacy protection
-        Enhancing the safety and confidentiality of visual information through innovative AI-driven solutions.
-        - Face De-identification.
-        - Privacy attacks and defenses on visual data
+                * **Visual data security and privacy protection**
 
-        ## Deepfake Detection
-        Developing advanced techniques to identify and mitigate manipulated media for secure and trustworthy digital spaces.
-
-        ## Machine learning and privacy
-        Designing machine learning methods that prioritize data protection and ethical use of sensitive information.
-
-        ## Fairness in AI and Machine Learning
-        Ensuring AI systems are unbiased, equitable, and transparent to foster trust and inclusivity in technology.
-
-        # Featured Projects
-
-        ### [Project Title 1](link-to-project-page)
-        **Objective:** Briefly describe the objective of this project.  
-        **Highlights:** Key achievements or areas of innovation.  
-        **Collaborators:** List collaborators if any.  
-
-        ### [Project Title 2](link-to-project-page)
-        **Objective:** Briefly describe the objective of this project.  
-        **Highlights:** Key achievements or areas of innovation.  
-        **Collaborators:** List collaborators if any.  
-
-        # Featured Publications
-
-        A selection of our recent publications:
-        - Author Names. **Title of the Paper.** *Conference/Journal Name,* Year. [DOI/Link](#)
-        - Author Names. **Title of the Paper.** *Conference/Journal Name,* Year. [DOI/Link](#)
-        - Author Names. **Title of the Paper.** *Conference/Journal Name,* Year. [DOI/Link](#)
+                    Enhancing the safety and confidentiality of visual information through innovative AI-driven solutions.
 
 
+                    * Face De-identification.
+                    * Privacy attacks and defenses on visual data
 
+                * **Deepfake Detection**
 
-        # Collaborations
+                    Developing advanced techniques to identify and mitigate manipulated media for secure and trustworthy digital spaces.
 
-        We work closely with academic institutions, industry partners, and research organizations to solve pressing challenges.
+                * **Machine learning and privacy**
 
-        For collaboration inquiries, please [contact us](/contact/).
+                    Designing machine learning methods that prioritize data protection and ethical use of sensitive information.
 
+                * **Fairness in AI and Machine Learning**
 
+                    Ensuring AI systems are unbiased, equitable, and transparent to foster trust and inclusivity in technology.
 
-        Looking forward to sharing our research journey with you. Stay connected!
+        # # Featured Projects
+
+        # ### [Project Title 1](link-to-project-page)
+        # **Objective:** Briefly describe the objective of this project.  
+        # **Highlights:** Key achievements or areas of innovation.  
+        # **Collaborators:** List collaborators if any.  
+
+        # ### [Project Title 2](link-to-project-page)
+        # **Objective:** Briefly describe the objective of this project.  
+        # **Highlights:** Key achievements or areas of innovation.  
+        # **Collaborators:** List collaborators if any.  
+
+        # # Featured Publications
+
+        # A selection of our recent publications:
+        # - Author Names. **Title of the Paper.** *Conference/Journal Name,* Year. [DOI/Link](#)
+        # - Author Names. **Title of the Paper.** *Conference/Journal Name,* Year. [DOI/Link](#)
+        # - Author Names. **Title of the Paper.** *Conference/Journal Name,* Year. [DOI/Link](#)
+
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: Collaborations
+      subtitle:
+      text: |
+
+            We work closely with academic institutions, industry partners, and research organizations to solve pressing challenges.
+
+            For collaboration inquiries, please [contact us](/contact/).
+
+            Looking forward to sharing our research journey with you. Stay connected!
     design:
       columns: '1'
 
