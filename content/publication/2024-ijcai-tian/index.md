@@ -19,7 +19,7 @@ featured: true
 publication: "*Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, {IJCAI-24}*"
 publication_short: "IJCAI"
 tags: ["Fairness", "Privacy", "Membership Inference Attacks"]
-doi: ""
+doi: "https://doi.org/10.24963/ijcai.2024/57"
 url_pdf: https://www.ijcai.org/proceedings/2024/0057.pdf
 
 # Featured image

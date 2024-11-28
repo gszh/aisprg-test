@@ -18,7 +18,7 @@ summary: ""
 featured: true
 publication: "*33rd USENIX Security Symposium (USENIX Security 24)*"
 publication_short: "USENIX Security"
-tags: ["Privacy Attacks", "CNNs", "Transformers"]
+tags: ["Privacy", "Privacy Attacks", "CNNs", "Transformers"]
 doi: ""
 url_pdf: https://www.usenix.org/system/files/usenixsecurity24-zhang-guangsheng.pdf
 
