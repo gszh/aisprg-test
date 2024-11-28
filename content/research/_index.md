@@ -56,20 +56,3 @@ For collaboration inquiries, please [contact us](/contact/).
 Looking forward to sharing our research journey with you. Stay connected!
 
 
----
-type: landing
-
-sections:
-    - block: collection
-        id: featured
-        content:
-        title: Featured Publications
-        count: 5
-        filters:
-            folders:
-            - publication
-            featured_only: true
-        design:
-        columns: '2'
-        view: masonry
----
